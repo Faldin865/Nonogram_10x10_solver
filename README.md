@@ -28,24 +28,4 @@ Example of input to try the program :
 
 It's a 10x10 board
 
-INITIAL SOLVE RULE OF 10 :
-
-....OO.OOO
-
-.....O...O
-
-....OO.OOO
-
-.........O
-
-OOOOOO.OOO
-
-O.O.OOOOOO
-
-....O..O..
-
-OOO.OOOOOO
-
-.......O.O
-
-....OO.OOO
+For the visual of it go to the img folder, you will see the original board and my progress at the moment.
