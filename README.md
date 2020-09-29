@@ -1,6 +1,6 @@
 # Nonogram_Solver
 
-Work in progress of a Falcross ( 10x10 at the moment) Solver in C.
+Work in progress of a nonogram ( 10x10 at the moment) Solver in C.
 
 The Basic rule of 10 is handle right now, the real fun part start now !
 
