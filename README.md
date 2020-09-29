@@ -1,4 +1,4 @@
-# Falcross_Solver
+# Nonogram_Solver
 
 Work in progress of a Falcross ( 10x10 at the moment) Solver in C.
 
