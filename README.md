@@ -18,3 +18,34 @@ To do list :
 -Work with an android emulator to auto complete and send the input of the solved board to the game
 
 -Many more things I haven't think about yet
+
+
+Example of input to try the program :
+
+14@51@6@13@1141@3211@13@116@11211@63 133@211@133@111@63@116@1111@36@121@16 @
+
+(@ is the separator)
+
+It's a 10x10 board
+
+INITIAL SOLVE RULE OF 10 :
+
+....OO.OOO
+
+.....O...O
+
+....OO.OOO
+
+.........O
+
+OOOOOO.OOO
+
+O.O.OOOOOO
+
+....O..O..
+
+OOO.OOOOOO
+
+.......O.O
+
+....OO.OOO
