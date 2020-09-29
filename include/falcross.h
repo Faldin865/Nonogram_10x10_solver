@@ -6,7 +6,7 @@
 /*   By: gpaul <gpaul@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/09/29 16:12:33 by gpaul             #+#    #+#             */
-/*   Updated: 2020/09/29 22:51:55 by gpaul            ###   ########.fr       */
+/*   Updated: 2020/09/30 00:01:00 by gpaul            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,5 +24,7 @@ char	**ft_horizon(char *str, char sep);
 char	**ft_map(void);
 char	**ft_solve(char **map, char **horizontal, char **vertical);
 void	ft_print(char **solved);
+void	ft_remove_x(char **solved);
+
 
 #endif

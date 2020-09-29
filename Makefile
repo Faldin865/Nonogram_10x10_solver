@@ -6,7 +6,7 @@
 #    By: gpaul <gpaul@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/08/26 00:56:13 by gpaul             #+#    #+#              #
-#    Updated: 2020/09/29 23:06:32 by gpaul            ###   ########.fr        #
+#    Updated: 2020/09/29 23:53:23 by gpaul            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -33,5 +33,7 @@ $(NAME) : $(OBJ)
 
 clean:
 	@rm -rf $(NAME)
+
+re: clean all
 
 .PHONY: all clean
